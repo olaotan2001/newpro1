@@ -1,0 +1,4 @@
+</h1> this is my localhost file for the new project<h/>
+echo"in processing please wait a few second"
+sleep 3
+echo"thank you for business"

@@ -2,3 +2,6 @@
 echo"in processing please wait a few second"
 sleep 3
 echo"thank you for business"
+why you join me here ? 
+i don't write the code but use the code to build some file to make things work
+
